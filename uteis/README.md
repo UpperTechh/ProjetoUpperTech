@@ -1,1 +1,12 @@
-
+# Ferramentas utilizadas
+ - [Java Swing](https://www.oracle.com/br/java/) - Biblioteca de interfaces gráficas.
+ - [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - IDE utilizada.
+ - [Canva](https://canva.com) - Usado na criação do diagrama.
+ - [Figma](https://figma.com) - Usado para criar os designs e artes.
+ - [Google Slides](https://docs.com) - Utilizado para criar os slides.
+ - [Slidesgo](https://slidesgo.com) - Utilizado para pegar um modelo de slides.
+ - [FlatIcon](https://www.flaticon.com/) - Ícones.
+ - [Youtube, Bassonia Tv](https://www.youtube.com/watch?v=snKePPMFwlo&list=LL&index=3) - Basicamente com esse vídeo todo o projeto foi salvo, com uma solução extremamente simples...
+ - [Discord](https://discord.com) - Calls.
+ - [Whatsapp](web.whatsapp.com) - Utilizado para comunicação do grupo.
+ - [Chat GPT](https://chatgpt.com) - Participação especial.
