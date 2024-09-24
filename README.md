@@ -1,4 +1,4 @@
-# ProjetoUpperTech
+<h1 align="center"> Projeto UpperTech </h1>
 <h1 align="center">Conheça um pouco sobre o nosso projeto! </h1>
 
 ### Tela de login 🔐
