@@ -10,3 +10,4 @@
  - [Discord](https://discord.com) - Calls.
  - [Whatsapp](web.whatsapp.com) - Utilizado para comunicação do grupo.
  - [Chat GPT](https://chatgpt.com) - Participação especial.
+ - [Trello](https://trello.com/b/TTYmIaED/projeto-uppertech) - Organização das ideias e do projeto.
