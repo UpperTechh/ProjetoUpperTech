@@ -1,4 +1,4 @@
-# Ferramentas utilizadas
+# Ferramentas utilizadas 🛠️
  - [Java Swing](https://www.oracle.com/br/java/) - Biblioteca de interfaces gráficas.
  - [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - IDE utilizada.
  - [Canva](https://canva.com) - Usado na criação do diagrama.
